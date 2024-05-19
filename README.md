@@ -44,7 +44,7 @@ huggingfacehub_api_token = 'your_hugging_face_hub_api_token'
 2. Run the Streamlit app:
 
 ```
-streamlit run app.py
+streamlit run test.py
 ```
 
 3. The app will open in your default web browser. You can now interact with the chatbot by typing your questions in the text input field and clicking the "Ask" button.
@@ -58,7 +58,7 @@ streamlit run app.py
 
 ## Code Structure
 
-- `app.py`: The main script that runs the Streamlit application.
+- `test.py`: The main script that runs the Streamlit application.
 
 ## Contributing
 
