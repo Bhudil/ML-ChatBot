@@ -33,12 +33,6 @@ git clone https://github.com/your-username/chatbot-app.git
 cd chatbot-app
 ```
 
-3. Install the required dependencies:
-
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Set your Hugging Face Hub API token in the code:
@@ -57,10 +51,14 @@ streamlit run app.py
 
 4. The chatbot will process your question and provide a detailed response without repetition.
 
+## Use Case
+
+![Screenshot (159)](https://github.com/Bhudil/ML-ChatBot/assets/99169324/567c6bc4-e059-4bf0-9218-4576e561bd7f)
+
+
 ## Code Structure
 
 - `app.py`: The main script that runs the Streamlit application.
-- `requirements.txt`: A file containing the required Python packages and their versions.
 
 ## Contributing
 
